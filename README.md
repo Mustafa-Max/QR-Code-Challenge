@@ -1,32 +1,33 @@
-QR Code Challenge
-This project is a solution to the QR Code challenge provided by Frontend Mentor. The challenge was to build out a QR code component and get it looking as close to the design provided as possible.
+# QR Code Challenge
 
-Screenshot
+This project is a solution to the QR Code challenge provided by [Frontend Mentor](https://www.frontendmentor.io). The challenge was to build out a QR code component and get it looking as close to the design provided as possible.
 
-Built With
-HTML5
+## Screenshot
 
-CSS3
+![QR Component Screenshot](![image](https://github.com/user-attachments/assets/7da7a3b6-bdf2-4077-9da8-f658750cd3ff)
+)
 
-Flexbox
+## Built With
 
-Challenge Details
+- HTML5
+- CSS3
+- Flexbox
+
+## Challenge Details
+
 The challenge required me to build a QR code component using HTML and CSS. The component needed to match the design provided, including the layout, fonts, and colors.
 
-What I Learned
-How to use Flexbox to center elements on a page.
+## What I Learned
 
-Improved my understanding of CSS styling and layout techniques.
+- How to use Flexbox to center elements on a page.
+- Improved my understanding of CSS styling and layout techniques.
+- Gained experience with responsive design.
 
-Gained experience with responsive design.
+## Author
 
-Author Arbiano
-GitHub: (https://github.com/Mustafa-Max)
+- GitHub: (https://github.com/Mustafa-Max)
+- Frontend Mentor: https://www.frontendmentor.io
 
-Frontend Mentor: Your Frontend Mentor Profile
+## Acknowledgments
 
-Acknowledgments
 Thanks to Frontend Mentor for providing the challenge. It was a great opportunity to improve my front-end development skills!
-
-Feel free to customize it further based on your specific solution. If you have any questions or need additional details, let me know!
-
