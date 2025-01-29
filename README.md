@@ -4,8 +4,8 @@ This project is a solution to the QR Code challenge provided by [Frontend Mentor
 
 ## Screenshot
 
-![QR Component Screenshot](![image](https://github.com/user-attachments/assets/7da7a3b6-bdf2-4077-9da8-f658750cd3ff)
-)
+![image](https://github.com/user-attachments/assets/3d7b4449-1792-4cf0-87c1-dd9d6bd12c8c)
+
 
 ## Built With
 
